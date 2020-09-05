@@ -1,4 +1,4 @@
-from whatismyip.Wimi import Wimi
+from wimiapi.Wimi import Wimi
 import argparse
 
 
