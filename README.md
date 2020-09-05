@@ -1,6 +1,6 @@
 # what-is-my-ip
 
-Response with the value of your ip for the rest of the world.
+Response with the value of your ip for the rest of the world based on [wimiapi](https://github.com/danilocgsilva/wimi-api).
 
 ## Installation
 
@@ -8,6 +8,8 @@ Go to the project root directoty and type:
 ```
 pip install .
 ```
+
+**Get its dependency. Download the [wimiapi](https://github.com/danilocgsilva/wimi-api) project and install it too.**
 
 ## Usage
 
